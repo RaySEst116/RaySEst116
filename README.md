@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**RaySEst116/RaySEst116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Ray**, an **IT Engineering student** and aspiring **Web Developer** and **Data Analyst**. I’m passionate about building efficient solutions, analyzing data, and continuously learning new technologies.
 
-Here are some ideas to get you started:
+## 🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Studying **Information Technology Engineering**.
+* 💻 Currently improving my programming skills and working on personal projects.
+* 🎯 Goal: Become a professional **Web Developer** and **Data Analyst**.
+* 📚 Always learning and exploring new tools, frameworks, and best practices.
+
+## 🛠️ Skills & Knowledge
+
+* **Programming Languages**:
+
+  * Basic knowledge of **C++**, **Java**, **Python**
+* **Web Development**, **MySQL**:
+
+  * **HTML** & **CSS** (structure and styling of websites)
+* **Data Analysis**:
+
+  * Developing foundational skills in **Python for data handling** and analytical thinking
+
+## 🚀 What I’m Working On
+
+* Expanding my **front-end web development** skills (JavaScript, frameworks, responsive design).
+* Diving deeper into **Python for data analysis** (pandas, NumPy, visualization tools).
+* Building small projects to strengthen problem-solving and technical skills.
+
+## 📌 Future Goals
+
+* Master **JavaScript** and modern frameworks for full-stack web development.
+* Gain proficiency in **data analysis & visualization**.
+* Contribute to **open-source projects** and collaborate with other developers.
+
+## 📫 Connect With Me
+
+* GitLab: https://gitlab.com/ray.s.est116
+* LinkedIn: https://www.linkedin.com/in/ray-s-estrada-212a82363
