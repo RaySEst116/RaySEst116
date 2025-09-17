@@ -14,9 +14,12 @@ I'm **Ray**, an **IT Engineering student** and aspiring **Web Developer** and **
 * **Programming Languages**:
 
   * Basic knowledge of **C++**, **Java**, **Python**
-* **Web Development**, **MySQL**:
+* **Web Development**:
 
   * **HTML** & **CSS** (structure and styling of websites)
+* **Databases**:
+  
+  * **MySQL Workbench**
 * **Data Analysis**:
 
   * Developing foundational skills in **Python for data handling** and analytical thinking
