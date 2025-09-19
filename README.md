@@ -43,11 +43,11 @@ I'm **Ray**, an **IT Engineering student** and aspiring **Web Developer** and **
 <p> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaySEst116&show_icons=true&theme=dracula&locale=en&layout=compact" alt="daenges" /></p>
 
 * **Languages I know**
-  <p><img src="https://skillicons.dev/icons?i=c++,java,py,html,css&theme=light" /></p>
+  <p><img src="https://skillicons.dev/icons?i=cpp,java,py,html,css" /></p>
 * **Currently learning**
-  <p><img src="https://skillicons.dev/icons?i=javascript,nodejs,react,vue&theme=light" /></p>
+  <p><img src="https://skillicons.dev/icons?i=javascript,nodejs,react,vue" /></p>
 * **Tools I use**
-  <p><img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea&theme=light" /></p>
+  <p><img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea" /></p>
 
 ## 📫 Connect With Me
 
