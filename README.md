@@ -36,6 +36,14 @@ I'm **Ray**, an **IT Engineering student** and aspiring **Web Developer** and **
 * Gain proficiency in **data analysis & visualization**.
 * Contribute to **open-source projects** and collaborate with other developers.
 
+## 📊 Stats
+<p> <img src="https://github-readme-stats.vercel.app/api?username=RaySEst116&show_icons=true&theme=dracula&cache_seconds=1800&locale=en" alt=daenges /> </p>
+
+## 💻 Languages
+<summary align="center">:chart_with_upwards_trend: Catistics :chart_with_downwards_trend:</summary>
+<br />
+<p> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaySEst116&show_icons=true&theme=dracula&locale=en&layout=compact" alt="daenges" /></p>
+
 ## 📫 Connect With Me
 
 * GitLab: https://gitlab.com/ray.s.est116
