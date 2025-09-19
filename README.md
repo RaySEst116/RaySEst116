@@ -35,8 +35,8 @@ I'm **Ray**, an **IT Engineering student** and aspiring **Web Developer** and **
   <p><img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,mysql" /></p>
 
 ## 📫 Connect With Me
-<p><a href="mailto:ray.s.est116@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" />ray.s.est116@gmail.com</a></p>
-<p><a href="https://www.instagram.com/ray_est.116"><img src="https://skillicons.dev/icons?i=instagram" />@ray_est.116</a></p>
-<p><a href="https://www.linkedin.com/in/ray-s-estrada-212a82363"><img src="https://skillicons.dev/icons?i=linkedin" />Raymond S. Estrada</a></p>
-<p><a href="https://discord.com/users/Ronin_116"></a><img src="https://skillicons.dev/icons?i=discord" />Ronin_116</p>
+<p><a href="mailto:ray.s.est116@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://www.instagram.com/ray_est.116"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://www.linkedin.com/in/ray-s-estrada-212a82363"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://discord.com/users/Ronin_116"><img src="https://skillicons.dev/icons?i=discord" /></a></p>
 
