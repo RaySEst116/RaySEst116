@@ -6,23 +6,8 @@ I'm **Ray**, an **IT Engineering student** and aspiring **Web Developer** and **
 
 * 🎓 Studying **Information Technology Engineering**.
 * 💻 Currently improving my programming skills and working on personal projects.
-* 🎯 Goal: Become a professional **Web Developer** and **Data Analyst**.
+* 🎯 Goal: Become a professional **Web Developer** and **DSoftware Developer**.
 * 📚 Always learning and exploring new tools, frameworks, and best practices.
-
-## 🛠️ Skills & Knowledge
-
-* **Programming Languages**:
-
-  * Basic knowledge of **C++**, **Java**, **Python**
-* **Web Development**:
-
-  * **HTML** & **CSS** (structure and styling of websites)
-* **Databases**:
-  
-  * **MySQL Workbench**
-* **Data Analysis**:
-
-  * Developing foundational skills in **Python for data handling** and analytical thinking
 
 ## 🚀 What I’m Working On
 
@@ -47,7 +32,7 @@ I'm **Ray**, an **IT Engineering student** and aspiring **Web Developer** and **
 * **Currently learning**
   <p><img src="https://skillicons.dev/icons?i=javascript,nodejs,react,vue" /></p>
 * **Tools I use**
-  <p><img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea" /></p>
+  <p><img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,mysql" /></p>
 
 ## 📫 Connect With Me
 
