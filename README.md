@@ -27,7 +27,7 @@ I'm **Ray**, an **IT Engineering student** and aspiring **Web Developer** and **
 ## 💻 Languages and Tools
 <p> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaySEst116&show_icons=true&theme=dracula&locale=en&layout=compact" alt="daenges" /></p>
 
-* **Languages I know**
+* **Languages I work with**
   <p><img src="https://skillicons.dev/icons?i=cpp,java,py,html,css" /></p>
 * **Currently learning**
   <p><img src="https://skillicons.dev/icons?i=javascript,nodejs,react,vue" /></p>
@@ -35,6 +35,8 @@ I'm **Ray**, an **IT Engineering student** and aspiring **Web Developer** and **
   <p><img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,mysql" /></p>
 
 ## 📫 Connect With Me
+<p><a href="mailto:ray.s.est116@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" />ray.s.est116@gmail.com</a></p>
+<p><a href="https://www.instagram.com/ray_est.116"><img src="https://skillicons.dev/icons?i=instagram" />@ray_est.116</a></p>
+<p><a href="https://www.linkedin.com/in/ray-s-estrada-212a82363"><img src="https://skillicons.dev/icons?i=linkedin" />Raymond S. Estrada</a></p>
+<p><a href="https://discord.com/users/Ronin_116"></a><img src="https://skillicons.dev/icons?i=discord" />Ronin_116</p>
 
-* GitLab: https://gitlab.com/ray.s.est116
-* LinkedIn: https://www.linkedin.com/in/ray-s-estrada-212a82363
