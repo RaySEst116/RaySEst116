@@ -1,24 +1,22 @@
 # Hi there 👋
 
-I'm **Ray**, an **IT Engineering student** and aspiring **Web Developer** and **Data Analyst**. I’m passionate about building efficient solutions, analyzing data, and continuously learning new technologies.
+I'm **Ray**, an **IT Engineering student** and aspiring **Web Developer** and **Software Dev**. I’m passionate about building efficient solutions, analyzing data, and continuously learning new technologies.
 
 ## 🌟 About Me
 
 * 🎓 Studying **Information Technology Engineering**.
 * 💻 Currently improving my programming skills and working on personal projects.
-* 🎯 Goal: Become a professional **Web Developer** and **DSoftware Developer**.
+* 🎯 Goal: Become a professional **Web Developer** and **Software Developer**.
 * 📚 Always learning and exploring new tools, frameworks, and best practices.
 
 ## 🚀 What I’m Working On
 
 * Expanding my **front-end web development** skills (JavaScript, frameworks, responsive design).
-* Diving deeper into **Python for data analysis** (pandas, NumPy, visualization tools).
 * Building small projects to strengthen problem-solving and technical skills.
 
 ## 📌 Future Goals
 
 * Master **JavaScript** and modern frameworks for full-stack web development.
-* Gain proficiency in **data analysis & visualization**.
 * Contribute to **open-source projects** and collaborate with other developers.
 
 ## 📊 Stats
